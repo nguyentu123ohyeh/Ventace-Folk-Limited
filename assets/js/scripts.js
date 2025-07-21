@@ -232,6 +232,7 @@ function renderCart() {
     `;
 }
 
+
 function changeCartQty(productId, delta) {
     let cart = JSON.parse(localStorage.getItem('cart')) || {};
     if (!cart[productId]) return;
@@ -248,6 +249,7 @@ function removeFromCart(productId) {
     localStorage.setItem('cart', JSON.stringify(cart));
     renderCart();
 }
+
 
 // ==================== KHỞI TẠO ====================
 document.addEventListener('DOMContentLoaded', function() {
