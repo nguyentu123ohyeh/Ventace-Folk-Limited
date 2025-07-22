@@ -34,14 +34,12 @@ function renderProducts(page) {
                     <p class="card-text flex-grow-1">${limitText(product.desc, 90)}</p>
                     <div class="card-buttons mt-auto d-flex gap-2">
                         <a href="portfolio-details.html?id=${product.id}" class="portfolio-btn flex-fill">Detail</a>
-                        <button class="portfolio-btn flex-fill" onclick="addToCart(${product.id})">Add To Cart</button>
                     </div>
                 </div>
             </div>
         </div>
     `).join('');
 }
-
 function renderPagination() {
     const totalPages = Math.ceil(PRODUCTS.length / PAGE_SIZE);
     const pagination = document.getElementById("pagination");
@@ -136,9 +134,6 @@ function renderProductDetail() {
         </div>
         <h2 class="mt-3 mb-2">${product.name}</h2>
         <p class="mb-4">${product.desc}</p>
-        <div class="text-center">
-            <button class="portfolio-btn" onclick="addToCart(${product.id})">Add to Cart</button>
-        </div>
     `;
 
     // Bắt sự kiện đổi ảnh chính khi click vào ảnh phụ

@@ -280,7 +280,7 @@ h6 {
     color: var(--nav-hover-color);
   }
 
-  .navmenu .dropdown ul {
+  /* .navmenu .dropdown ul {
     margin: 0;
     padding: 10px 0;
     background: var(--nav-dropdown-background-color);
@@ -334,7 +334,7 @@ h6 {
     top: 0;
     left: -100%;
     visibility: visible;
-  }
+  } */
 }
 
 /* Mobile Navigation */
@@ -1685,3 +1685,5 @@ section,
         margin-top: 15px;
       }
     }
+
+    
