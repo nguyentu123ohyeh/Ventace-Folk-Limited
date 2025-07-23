@@ -20,9 +20,14 @@
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/css/main.css" rel="stylesheet">
   <style>
+    :root {
+      --main-color: #34b7a7;
+      --main-color-light: #e6f6f4;
+      --main-color-lighter: #f3fbfa;
+    }
     .icon-round {
       background: #fff;
-      color: #28a745;
+      color: var(--main-color);
       border-radius: 50%;
       display: inline-flex;
       align-items: center;
@@ -34,25 +39,25 @@
       margin-right: 10px;
     }
     .highlight-box {
-      background: linear-gradient(90deg, #e8f5e9 0%, #fff 100%);
+      background: linear-gradient(90deg, var(--main-color-light) 0%, #fff 100%);
       border-radius: 12px;
       padding: 28px 32px;
       margin-bottom: 32px;
-      box-shadow: 0 4px 24px rgba(40,167,69,0.07);
+      box-shadow: 0 4px 24px rgba(52,183,167,0.07);
     }
     .return-list li {
       margin-bottom: 14px;
       font-size: 1.08rem;
     }
     .return-section-title {
-      color: #28a745;
+      color: var(--main-color);
       font-weight: bold;
       margin-top: 32px;
       margin-bottom: 18px;
       letter-spacing: 1px;
     }
     .step-badge {
-      background: #28a745;
+      background: var(--main-color);
       color: #fff;
       border-radius: 50%;
       display: inline-block;
@@ -62,6 +67,17 @@
       line-height: 28px;
       font-weight: bold;
       margin-right: 10px;
+    }
+    .main {
+      background: var(--main-color-lighter) !important;
+      min-height: 70vh;
+    }
+    .footer-link, .sitename {
+      color: var(--main-color) !important;
+    }
+    .footer-link:hover {
+      color: #226e66 !important;
+      text-decoration: underline;
     }
   </style>
 </head>
@@ -75,7 +91,7 @@
     <a href="index.html" class="logo d-flex align-items-center me-auto me-xl-0">
     <!-- Nếu có logo hình, dùng dòng dưới -->
     <!-- <img src="assets/img/logo.png" alt="Ventace Folk Logo" style="max-height:38px;margin-right:10px;"> -->
-    <span class="sitename" style="font-size:1.2rem;font-weight:700;letter-spacing:1px;color:var(--accent-color);text-transform:uppercase;">Ventace Folk</span>
+    <span class="sitename" style="font-size:1.2rem;font-weight:700;letter-spacing:1px;text-transform:uppercase;">Ventace Folk</span>
     </a>
       </a>
 
@@ -83,8 +99,6 @@
         <ul>
           <li><a href="index.html" >Home</a></li>
           <li><a href="about.html">About</a></li>
-          <!-- <li><a href="resume.html">Resume</a></li>
-          <li><a href="services.html">Services</a></li> -->
           <li><a href="portfolio.html">Product</a></li>
           <li><a href="contact.html">Contact</a></li>
         </ul>
@@ -102,58 +116,79 @@
   </header>
   <!-- End Header -->
 
-  <main class="main py-5" style="background: #f5faf5; min-height: 70vh;">
-    <div class="container" data-aos="fade-up">
-      <div class="row justify-content-center">
-        <div class="col-lg-9">
-          <div class="highlight-box d-flex align-items-center mb-5">
-            <span class="icon-round"><i class="bi bi-arrow-counterclockwise"></i></span>
-            <div>
-              <h2 class="mb-1" style="color:#28a745;">Return Policy</h2>
-              <p class="mb-0" style="font-size:1.1rem;">We want you to be 100% satisfied with your purchase. Our return policy is designed to be simple, fair, and transparent.</p>
-            </div>
-          </div>
+      <main class="main py-5">
+        <div class="container" data-aos="fade-up">
+          <div class="row justify-content-center">
+            <div class="col-lg-9">
+              <div class="highlight-box d-flex align-items-center mb-5">
+                <span class="icon-round"><i class="bi bi-arrow-counterclockwise"></i></span>
+                <div>
+                  <h2 class="mb-1" style="color:var(--main-color);">Return Policy</h2>
+                  <p class="mb-0" style="font-size:1.1rem;">
+                    This return policy applies exclusively to business partners and international trade clients of Ventace Folk Limited. Our process aims to ensure transparency, fairness, and compliance with contractual terms.
+                  </p>
+                </div>
+              </div>
 
-          <div>
-            <div class="return-section-title">Eligibility for Returns</div>
-            <ul class="return-list">
-              <li>Returns are accepted within <strong>14 days</strong> of receiving your order.</li>
-              <li>Items must be unused, in their original packaging, and in the same condition as received.</li>
-              <li>Customized, clearance, or final sale items are not eligible for return unless defective.</li>
-            </ul>
+              <div>
+                <div class="return-section-title">Eligibility for Returns</div>
+                <ul class="return-list">
+                  <li>Returns are only accepted for products purchased under a formal sales contract between Ventace Folk Limited and the business partner.</li>
+                  <li>Return requests must be submitted within <strong>7 days</strong> of receipt of goods, with written notice specifying the reason for return and supporting documentation (e.g. photos, inspection reports).</li>
+                  <li>Only items that are defective, damaged during transit, or do not conform to agreed specifications are eligible for return.</li>
+                  <li>Custom-made products, special orders, or goods marked as “non-returnable” in the contract are not eligible for return unless otherwise agreed in writing.</li>
+                </ul>
 
-            <div class="return-section-title">How to Return</div>
-            <ol style="margin-left: 0; padding-left: 0;">
-              <li style="margin-bottom:12px;"><span class="step-badge">1</span> <b>Contact Us:</b> Email <a href="mailto:info@ventacefolkworld.com" style="color:#28a745;">info@ventacefolkworld.com</a> with your order number and reason for return.</li>
-              <li style="margin-bottom:12px;"><span class="step-badge">2</span> <b>Pack Your Item:</b> Ensure the product is unused and securely packaged.</li>
-              <li style="margin-bottom:12px;"><span class="step-badge">3</span> <b>Ship Back:</b> We will provide you with return instructions and address.</li>
-              <li><span class="step-badge">4</span> <b>Refund:</b> Once received and inspected, we will process your refund within 3-7 business days.</li>
-            </ol>
+                <div class="return-section-title">Return Procedure</div>
+                <ol style="margin-left: 0; padding-left: 0;">
+                  <li style="margin-bottom:12px;">
+                    <span class="step-badge">1</span>
+                    <b>Notification:</b> The buyer must notify Ventace Folk Limited in writing (<a href="mailto:info@ventacefolkworld.com" style="color:var(--main-color);">info@ventacefolkworld.com</a>) within 7 days of delivery, providing order/invoice number, description of the issue, and evidence (photos, inspection report).
+                  </li>
+                  <li style="margin-bottom:12px;">
+                    <span class="step-badge">2</span>
+                    <b>Evaluation:</b> Ventace Folk Limited will review the request and may require additional information or arrange for a third-party inspection.
+                  </li>
+                  <li style="margin-bottom:12px;">
+                    <span class="step-badge">3</span>
+                    <b>Return Authorization:</b> If the return is approved, a Return Merchandise Authorization (RMA) and shipping instructions will be provided.
+                  </li>
+                  <li style="margin-bottom:12px;">
+                    <span class="step-badge">4</span>
+                    <b>Shipping:</b> The buyer is responsible for properly packaging the goods and arranging return shipment to the designated address, unless otherwise agreed. All returned goods must be in original condition and include all original documentation.
+                  </li>
+                  <li>
+                    <span class="step-badge">5</span>
+                    <b>Inspection & Resolution:</b> Upon receipt, Ventace Folk Limited will inspect the goods. If the claim is valid, we will offer a replacement, credit note, or refund as per contract terms.
+                  </li>
+                </ol>
 
-            <div class="return-section-title">Important Notes</div>
-            <ul class="return-list">
-              <li>Customers are responsible for return shipping costs unless the return is due to our error or a defective product.</li>
-              <li>Approved refunds will be made to your original payment method.</li>
-              <li>For exchanges, please mention your replacement request in your email.</li>
-            </ul>
+                <div class="return-section-title">Important Notes</div>
+                <ul class="return-list">
+                  <li><b>Shipping Costs:</b> Unless the return is due to our error or defective goods, the buyer is responsible for all return shipping and insurance costs.</li>
+                  <li><b>Risk & Title:</b> Risk and title of the goods remain with the buyer until the returned goods are received and accepted by Ventace Folk Limited.</li>
+                  <li><b>No Returns Without Authorization:</b> Returns sent without prior authorization will not be accepted and may be returned at the sender’s expense.</li>
+                  <li><b>Force Majeure:</b> Returns due to force majeure or circumstances beyond control will be handled based on mutual agreement.</li>
+                </ul>
 
-            <div class="return-section-title">Need Help?</div>
-            <div style="background:#e8f5e9; border-radius:8px; padding:18px;">
-              <i class="bi bi-chat-dots" style="color:#28a745; font-size:1.3rem;"></i>
-              For any questions or urgent support, please email <a href="mailto:info@ventacefolkworld.com" style="color:#28a745;">info@ventacefolkworld.com</a>.
+                <div class="return-section-title">Contact</div>
+                <div style="background:var(--main-color-light); border-radius:8px; padding:18px;">
+                  <i class="bi bi-chat-dots" style="color:var(--main-color); font-size:1.3rem;"></i>
+                  For any questions or to initiate a return, please contact our Export Support Team at
+                  <a href="mailto:info@ventacefolkworld.com" style="color:var(--main-color);">info@ventacefolkworld.com</a>.
+                </div>
+              </div>
             </div>
           </div>
         </div>
-      </div>
-    </div>
-  </main>
+      </main>
 
   <!-- Footer -->
   <footer id="footer" class="footer light-background">
     <div class="container">
       <div class="row">
         <div class="col-md-4 mb-3 mb-md-0 d-flex align-items-center" style="min-height: 80px;">
-          <span class="sitename" style="font-size:1.2rem;font-weight:700;letter-spacing:1px;color:var(--accent-color);text-transform:uppercase;"">VENTACE FOLK LIMITED</span>
+          <span class="sitename" style="font-size:1.2rem;font-weight:700;letter-spacing:1px;text-transform:uppercase;">VENTACE FOLK LIMITED</span>
         </div>
         <div class="col-md-4 mb-3 mb-md-0 text-md-center">
           <div style="font-weight: bold; font-size: 1.1rem;">Information</div>

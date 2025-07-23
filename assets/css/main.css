@@ -1686,4 +1686,22 @@ section,
       }
     }
 
-    
+        :root {
+      --main-color: #34b7a7;
+      --main-color-light: #e6f6f4;
+      --main-color-lighter: #f3fbfa;
+    }
+    .main {
+      background: var(--main-color-lighter) !important;
+      min-height: 70vh;
+    }
+    .footer-link, .sitename {
+      color: var(--main-color) !important;
+    }
+    .footer-link:hover {
+      color: #226e66 !important;
+      text-decoration: underline;
+    }
+    h3, .section-title h2 {
+      color: var(--main-color) !important;
+    }

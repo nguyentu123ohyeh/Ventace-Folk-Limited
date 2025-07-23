@@ -20,59 +20,75 @@
   <link href="assets/vendor/glightbox/css/glightbox.min.css" rel="stylesheet">
   <link href="assets/css/main.css" rel="stylesheet">
   <style>
-    .icon-round {
-      background: #fff;
-      color: #ff9800;
-      border-radius: 50%;
-      display: inline-flex;
-      align-items: center;
-      justify-content: center;
-      width: 44px;
-      height: 44px;
-      font-size: 1.5rem;
-      box-shadow: 0 2px 8px rgba(0,0,0,0.08);
-      margin-right: 10px;
-    }
-    .highlight-box {
-      background: linear-gradient(90deg, #fffde7 0%, #fff 100%);
-      border-radius: 12px;
-      padding: 28px 32px;
-      margin-bottom: 32px;
-      box-shadow: 0 4px 24px rgba(255,152,0,0.09);
-    }
-    .delivery-list li {
-      margin-bottom: 14px;
-      font-size: 1.08rem;
-    }
-    .delivery-section-title {
-      color: #ff9800;
-      font-weight: bold;
-      margin-top: 32px;
-      margin-bottom: 18px;
-      letter-spacing: 1px;
-    }
-    .timeline {
-      border-left: 3px solid #ff9800;
-      margin-left: 20px;
-      padding-left: 20px;
-    }
-    .timeline-step {
-      margin-bottom: 22px;
-      position: relative;
-    }
-    .timeline-step::before {
-      content: '';
-      position: absolute;
-      left: -29px;
-      top: 2px;
-      width: 14px;
-      height: 14px;
-      background: #ff9800;
-      border-radius: 50%;
-      border: 2px solid #fff;
-      box-shadow: 0 0 0 2px #ff9800;
-    }
-  </style>
+  :root {
+    --main-color: #34b7a7;
+    --main-color-light: #e6f6f4;
+    --main-color-lighter: #f3fbfa;
+  }
+  .icon-round {
+    background: #fff;
+    color: var(--main-color);
+    border-radius: 50%;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 44px;
+    height: 44px;
+    font-size: 1.5rem;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.08);
+    margin-right: 10px;
+  }
+  .highlight-box {
+    background: linear-gradient(90deg, var(--main-color-light) 0%, #fff 100%);
+    border-radius: 12px;
+    padding: 28px 32px;
+    margin-bottom: 32px;
+    box-shadow: 0 4px 24px rgba(52,183,167,0.09);
+  }
+  .delivery-list li {
+    margin-bottom: 14px;
+    font-size: 1.08rem;
+  }
+  .delivery-section-title {
+    color: var(--main-color);
+    font-weight: bold;
+    margin-top: 32px;
+    margin-bottom: 18px;
+    letter-spacing: 1px;
+  }
+  .timeline {
+    border-left: 3px solid var(--main-color);
+    margin-left: 20px;
+    padding-left: 20px;
+  }
+  .timeline-step {
+    margin-bottom: 22px;
+    position: relative;
+  }
+  .timeline-step::before {
+    content: '';
+    position: absolute;
+    left: -29px;
+    top: 2px;
+    width: 14px;
+    height: 14px;
+    background: var(--main-color);
+    border-radius: 50%;
+    border: 2px solid #fff;
+    box-shadow: 0 0 0 2px var(--main-color);
+  }
+  .main {
+    background: var(--main-color-lighter) !important;
+    min-height: 70vh;
+  }
+  .footer-link, .sitename {
+    color: var(--main-color) !important;
+  }
+  .footer-link:hover {
+    color: #226e66 !important;
+    text-decoration: underline;
+  }
+</style>
 </head>
 
 <body class="index-page">
@@ -118,36 +134,49 @@
           <div class="highlight-box d-flex align-items-center mb-5">
             <span class="icon-round"><i class="bi bi-truck"></i></span>
             <div>
-              <h2 class="mb-1" style="color:#ff9800;">Delivery Policy</h2>
+              <h2 class="mb-1" style="color:var(--accent-color);">Delivery Policy</h2>
               <p class="mb-0" style="font-size:1.1rem;">Fast, secure, and reliable delivery for all your smart home products and tech accessories.</p>
             </div>
           </div>
 
           <div>
-            <div class="delivery-section-title">Our Commitment</div>
-            <ul class="delivery-list">
-              <li>We deliver smart home products, phone and computer accessories to customers worldwide with care and speed.</li>
-              <li>All orders are handled by trusted courier partners to ensure safe and timely arrival.</li>
-              <li>Every package is tracked and insured for your peace of mind.</li>
-            </ul>
+            <div class="delivery-section-title">Our Delivery Commitment</div>
+              <ul class="delivery-list">
+                <li>Ventace Folk Limited provides international logistics and shipping services for businesses, distributors, and project partners worldwide.</li>
+                <li>All shipments are handled professionally and in full compliance with international import-export regulations and standards.</li>
+                <li>We cooperate with reputable carriers to ensure your goods are delivered safely and on schedule.</li>
+              </ul>
 
-            <div class="delivery-section-title">Delivery Process</div>
-            <div class="timeline">
-              <div class="timeline-step">
-                <strong>Order Processing:</strong> Orders are processed within <b>1-3 business days</b> after payment confirmation.
+              <div class="delivery-section-title">Delivery Process</div>
+              <div class="timeline">
+                <div class="timeline-step">
+                  <strong>Order & Contract Confirmation:</strong> Agree on delivery terms (FOB, CIF, DDP, etc.) and sign the import-export contract.
+                </div>
+                <div class="timeline-step">
+                  <strong>Packing & Documentation:</strong> International-standard packing and preparation of all required documents (Invoice, Packing List, CO, CQ, etc.).
+                </div>
+                <div class="timeline-step">
+                  <strong>International Shipping:</strong> Delivery by sea, air, or land as agreed with the partner.
+                </div>
+                <div class="timeline-step">
+                  <strong>Customs Clearance:</strong> Fast customs declaration and clearance, with legal consulting for import/export procedures.
+                </div>
+                <div class="timeline-step">
+                  <strong>Handover & Acceptance:</strong> Partners receive and inspect goods, confirm quantity and quality, and sign the handover record.
+                </div>
               </div>
-              <div class="timeline-step">
-                <strong>Shipping:</strong> We dispatch using leading courier services. You will receive a tracking number as soon as your order ships.
-              </div>
-              <div class="timeline-step">
-                <strong>Estimated Delivery:</strong> <br>
-                <ul style="margin-bottom:0;">
-                  <li>Domestic: 2-5 business days</li>
-                  <li>International: 5-15 business days (depending on destination and customs)</li>
-                </ul>
-              </div>
-              <div class="timeline-step">
-                <strong>Order Tracking:</strong> Monitor your shipment status at any time using your tracking code.
+
+              <div class="delivery-section-title">Important Notes</div>
+              <ul class="delivery-list">
+                <li>Shipping, insurance, and import duties will be clearly agreed upon in the contract.</li>
+                <li>Ventace Folk Limited supports resolving any issues related to shipping, customs, or cargo damage.</li>
+                <li>Please contact us for tailored delivery solutions for your specific market or project.</li>
+              </ul>
+
+              <div class="delivery-section-title">Contact for Support</div>
+              <div style="background:#fffde7; border-radius:8px; padding:18px;">
+                <i class="bi bi-envelope-paper" style="color:var(--accent-color); font-size:1.2rem;"></i>
+                For shipping inquiries or urgent support, please email <a href="mailto:info@ventacefolkworld.com" style="color:var(--accent-color);">info@ventacefolkworld.com</a>.
               </div>
             </div>
 
@@ -160,8 +189,8 @@
 
             <div class="delivery-section-title">Questions?</div>
             <div style="background:#fffde7; border-radius:8px; padding:18px;">
-              <i class="bi bi-envelope-paper" style="color:#ff9800; font-size:1.2rem;"></i>
-              For shipping inquiries or urgent support, please email <a href="mailto:info@ventacefolkworld.com" style="color:#ff9800;">info@ventacefolkworld.com</a>.
+              <i class="bi bi-envelope-paper" style="color:var(--accent-color); font-size:1.2rem;"></i>
+              For shipping inquiries or urgent support, please email <a href="mailto:info@ventacefolkworld.com" style="color:var(--accent-color);">info@ventacefolkworld.com</a>.
             </div>
           </div>
         </div>
