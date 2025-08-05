@@ -385,7 +385,8 @@ const PRODUCTS = [
       "assets/img/Bulb/14(19.8).jpg",
       "assets/img/Bulb/14.1.jpg",
       "assets/img/Bulb/14.2.jpg",
-      "assets/img/Bulb/14.3.jpg"
+      "assets/img/Bulb/14.3.jpg",
+      "assets/img/Bulb/14.4.jpg"
     ],
     
     desc: "Experience classic charm and modern efficiency with these dimmable E26 LED bulbs, emitting a cozy 2700K warm white light at 400 lumens. Perfect for rustic pendants, chandeliers, and wall sconces, each bulb combines vintage tubular design with energy-saving performance. Create a warm, inviting atmosphere while reducing your energy costs.",
@@ -398,7 +399,8 @@ const PRODUCTS = [
       "assets/img/Bulb/15(16.3).jpg",
       "assets/img/Bulb/15.1.jpg",
       "assets/img/Bulb/15.2.jpg",
-      "assets/img/Bulb/15.3.jpg"
+      "assets/img/Bulb/15.3.jpg",
+      "assets/img/Bulb/15.4.jpg",
     ],
     
     desc: "Brighten your space with these dimmable G16.5 globe LED bulbs, offering 600 lumens of soft 2700K warm white light and a high CRI of 90+. Their round Edison style is ideal for ceiling fans, pendants, and chandeliers, adding elegance and clarity to any setting. Enjoy long-lasting, energy-efficient lighting with true color rendering.",
@@ -411,7 +413,8 @@ const PRODUCTS = [
       "assets/img/Bulb/16(39.4).jpg",
       "assets/img/Bulb/16.1.jpg",
       "assets/img/Bulb/16.2.jpg",
-      "assets/img/Bulb/16.3.jpg"
+      "assets/img/Bulb/16.3.jpg",
+      "assets/img/Bulb/16.4.jpg",
     ],
     
     desc: "Add vintage flair to your décor with these 5-inch dimmable T10 Edison LED bulbs, delivering 800 lumens of soft 2700K white light. Each UL-certified bulb combines antique tubular style with powerful brightness, perfect for bathroom vanity lights and wall sconces. Enjoy energy savings and a warm, inviting glow in every room.",
@@ -463,6 +466,8 @@ const PRODUCTS = [
       "assets/img/Bulb/20(21.64).jpg",
       "assets/img/Bulb/20.1.jpg",
       "assets/img/Bulb/20.2.jpg",
+      "assets/img/Bulb/20.3.jpg",
+      "assets/img/Bulb/20.4.jpg",
     ],
     
     desc: "Enjoy vibrant lighting with these RGB color-changing bulbs, offering 1200 lumens and six preset moods to match any atmosphere. The included remote provides easy control over timing, brightness, and color sync, while the memory function recalls your favorite setting. Perfect for parties, bedrooms, or everyday use.",
@@ -630,7 +635,8 @@ const PRODUCTS = [
       "assets/img/Computer/3(28.73).jpg",
       "assets/img/Computer/3.1.jpg",
       "assets/img/Computer/3.2.jpg",
-      "assets/img/Computer/3.3.jpg"
+      "assets/img/Computer/3.3.jpg",
+      "assets/img/Computer/3.4.jpg",
     ],
     
     desc: "This handheld portable fan features a 4000mAh rechargeable battery, six wind speeds, and an LCD digital display for easy control. The 180° foldable design and included lanyard let you use it as a neck fan or desk fan. Enjoy ultra-quiet cooling wherever you go.",
@@ -656,7 +662,8 @@ const PRODUCTS = [
       "assets/img/Computer/5(50.14).jpg",
       "assets/img/Computer/5.1.jpg",
       "assets/img/Computer/5.2.jpg",
-      "assets/img/Computer/5.3.jpg"
+      "assets/img/Computer/5.3.jpg",
+      "assets/img/Computer/5.4.jpg",
     ],
     
     desc: "Keep cool with this quiet USB rechargeable desk fan, featuring a 5400mAh battery, LED display, and adjustable speed control. The 90° tilt head and hangable design offer flexible placement for office, bedroom, dorm, or kitchen. Sleek deep sky grey matches any décor.",
@@ -695,6 +702,8 @@ const PRODUCTS = [
       "assets/img/Computer/8(65.45).jpg",
       "assets/img/Computer/8.1.jpg",
       "assets/img/Computer/8.2.jpg",
+      "assets/img/Computer/8.3.jpg",
+      "assets/img/Computer/8.4.jpg",
     ],
     
     desc: "Experience powerful airflow with this handheld turbo fan, featuring 100 speed settings, a digital display, and 105° tilt. Rechargeable via USB and wall-mountable, it’s ultra-quiet and ideal for home, office, kitchen, travel, or camping.",
@@ -737,5 +746,288 @@ const PRODUCTS = [
     ],
     
     desc: "Cool your space with this mini USB table fan, featuring three speed settings and 360° rotation. The 1.2m USB cable and removable grid offer convenience and easy cleaning. Its quiet operation is ideal for office and bedroom use in white.",
+  },
+    {
+    id: 58,
+    name: "Sound+Light Sensor Control LED Phone Automatic Smart Sensor Phone Light (9W)",
+    img: "assets/img/Phone/1(11.97).jpg",
+    imgs: [
+      "assets/img/Phone/1(11.97).jpg",
+      "assets/img/Phone/1.1.jpg",
+      "assets/img/Phone/1.2.jpg",
+      "assets/img/Phone/1.3.jpg"
+    ],
+    
+    desc: "This 9W smart LED Phone features both sound and light sensors for fully automatic operation. It turns on when it detects movement or sound, making it perfect for hallways, entryways, closets, or stairwells. Enjoy hands-free convenience and enhanced safety in your home. Easy to install and energy-efficient for everyday use.",
+  },
+    {
+    id: 59,
+    name: "LED RGB Smart Light Phone A19 9W 900LM Voice APP Bluetooth Control E26 4 Pack",
+    img: "assets/img/Phone/2(6.33).jpg",
+    imgs: [
+      "assets/img/Phone/2(6.33).jpg",
+      "assets/img/Phone/2.1.jpg",
+      "assets/img/Phone/2.2.jpg",
+      "assets/img/Phone/2.3.jpg"
+    ],
+    
+    desc: "Brighten any room with this 4-pack of A19 RGB smart Phones, offering 900 lumens and 16 million color options. Easily control brightness and color via app, Bluetooth, or voice commands with compatible assistants. Perfect for creating custom moods in bedrooms, living rooms, or entertainment areas. Standard E26 base fits most fixtures.",
+  },
+    {
+    id: 60,
+    name: "SONOFF B05-BL-A60/A19 WiFi Smart Light Phone Smart Home Dimmable Lamp Support Ewe",
+    img: "assets/img/Phone/3(6.23).jpg",
+    imgs: [
+      "assets/img/Phone/3(6.23).jpg",
+      "assets/img/Phone/3.1.jpg",
+      "assets/img/Phone/3.2.jpg",
+      "assets/img/Phone/3.3.jpg"
+    ],
+    
+    desc: "Upgrade your lighting with the SONOFF B05-BL-A60/A19 WiFi Smart Phone, supporting dimming and remote control through the EweLink app. Compatible with popular smart home systems, it allows for seamless voice or app-based adjustments. Energy-efficient and easy to integrate into any room. Enjoy customizable lighting for every occasion.",
+  },
+    {
+      id: 61,
+    name: "2X Smart LED Light Phone E14 ES Candle 6W WiFi RGB App Control For Alexa Google",
+    img: "assets/img/Phone/4(4.89).jpg",
+    imgs: [
+      "assets/img/Phone/4(4.89).jpg",
+      "assets/img/Phone/4.1.jpg",
+      "assets/img/Phone/4.2.jpg",
+      "assets/img/Phone/4.3.jpg"
+    ],
+    
+    desc: "This set of two E14 candle smart Phones brings vibrant RGB color control to your home. Use the app or voice assistants like Alexa and Google Home to adjust brightness, color, and set schedules. Perfect for chandeliers, bedrooms, or accent lighting. Add a touch of elegance and smart convenience to any space.",
+  },
+    {
+    id: 62,
+    name: "Modern RGB LED Corner Floor Lamp Light Strip for Room with Music Sync DIY Color",
+    img: "assets/img/Phone/5(6.28).jpg",
+    imgs: [
+      "assets/img/Phone/5(6.28).jpg",
+      "assets/img/Phone/5.1.jpg",
+      "assets/img/Phone/5.2.jpg",
+      "assets/img/Phone/5.3.jpg"
+    ],
+    
+    desc: "Create a stunning ambiance with this modern RGB LED corner floor lamp. Featuring music sync and DIY color modes, it transforms your living room, bedroom, or gaming area with dynamic lighting effects. The sleek, minimalist design fits neatly into any corner. Elevate your space with customizable, immersive light.",
+  },
+    {
+    id: 63,
+    name: "6pcs Honeycomb Quantum Lamp Smart Sensor Diy Geometric Colorful Wall Led Modular",
+    img: "assets/img/Phone/6(14.99).jpg",
+    imgs: [
+      "assets/img/Phone/6(14.99).jpg",
+      "assets/img/Phone/6.1.jpg",
+      "assets/img/Phone/6.2.jpg",
+      "assets/img/Phone/6.3.jpg"
+    ],
+    
+    desc: "Design your own wall art with this 6-piece honeycomb modular LED lamp set. Each panel features touch-sensitive controls and a spectrum of vibrant colors for endless combinations. Arrange them in unique geometric patterns to suit your style. Perfect for bedrooms, living rooms, or creative studios.",
+  },
+    {
+    id: 64,
+    name: "WiFi Smart Phone Smart Light Phone Compatible with Alexa & Google Home, No Hub Req",
+    img: "assets/img/Phone/7(14.68).jpg",
+    imgs: [
+      "assets/img/Phone/7(14.68).jpg",
+      "assets/img/Phone/7.1.jpg",
+      "assets/img/Phone/7.2.jpg",
+      "assets/img/Phone/7.3.jpg"
+    ],
+    
+    desc: "Experience effortless smart lighting with this WiFi-enabled Phone—no hub required. Control brightness, color, and schedules remotely through an app or with Alexa and Google Home voice commands. Simple to install in any standard socket. Ideal for modern homes seeking convenience and energy savings.",
+  },
+    {
+    id: 65,
+    name: "9W Dimmable Wall Light App Control LED Down Phone Smart Lights Up-down 220V/110V",
+    img: "assets/img/Phone/8(6.36).jpg",
+    imgs: [
+      "assets/img/Phone/8(6.36).jpg",
+      "assets/img/Phone/8.1.jpg",
+      "assets/img/Phone/8.2.jpg",
+    ],
+    
+    desc: "Illuminate your space with this 9W dimmable smart wall light, featuring both up and down lighting. Easily adjust brightness and settings from your smartphone app, compatible with 220V/110V systems. Modern design suits hallways, living rooms, or balconies. Enjoy versatile, customizable lighting at your fingertips.",
+  },
+    {
+    id: 66,
+    name: "LED Globe Phone Smart Sound PIR Motion Sensor Ball Light Corridor Warehouse Lamp",
+    img: "assets/img/Phone/9(18.99).jpg",
+    imgs: [
+      "assets/img/Phone/9(18.99).jpg",
+      "assets/img/Phone/9.1.jpg",
+      "assets/img/Phone/9.2.jpg"
+    ],
+    
+    desc: "This LED globe Phone combines sound and PIR motion sensors for automatic, energy-saving lighting. It activates when it detects movement or noise, making it ideal for corridors, warehouses, or garages. Provides reliable, hands-free illumination for safety and convenience. Simple installation in any standard socket.",
+  },
+    {
+    id: 67,
+    name: "SwitchBot LED Light Phone Smart Light Smart Home - Smart Light Phone E26 (2 Pack)",
+    img: "assets/img/Phone/10(5.69).jpg",
+    imgs: [
+      "assets/img/Phone/10(5.69).jpg",
+      "assets/img/Phone/10.1.jpg",
+      "assets/img/Phone/10.2.jpg",
+      "assets/img/Phone/10.3.jpg"
+    ],
+    
+    desc: "Enjoy smart home lighting with this 2-pack of SwitchBot LED Phones, featuring app and voice control for easy adjustments. Customize brightness and color temperature to suit any mood or activity. Compatible with major smart home systems and standard E26 sockets. Perfect for bedrooms, offices, or living spaces.",
+  },
+      {
+    id: 68,
+    name: "ON/OFF B22 Globe PIR Energy Saving Light Motion Sensor LED Phone Smart Phone",
+    img: "assets/img/Phone/11(18.99).jpg",
+    imgs: [
+      "assets/img/Phone/11(18.99).jpg",
+      "assets/img/Phone/11.1.jpg",
+      "assets/img/Phone/11.2.jpg",
+      "assets/img/Phone/11.3.jpg"
+    ],
+    
+    desc: "This B22 globe LED Phone features a built-in PIR motion sensor for automatic on/off functionality. Ideal for entryways, staircases, and garages, it helps save energy by only lighting up when needed. Simple to install and highly efficient. Enhance your home’s convenience and security effortlessly.",
+  },
+      {
+    id: 69,
+    name: "Wireless Remote Control Smart Timer Switch Lamp Holder Smart Phone Holder",
+    img: "assets/img/Phone/12(20.34).jpg",
+    imgs: [
+      "assets/img/Phone/12(20.34).jpg",
+      "assets/img/Phone/12.1.jpg",
+      "assets/img/Phone/12.2.jpg",
+      "assets/img/Phone/12.3.jpg"
+    ],
+    
+    desc: "Transform any regular Phone into a smart light with this wireless remote-control lamp holder. Set timers, switch lights on/off remotely, and automate your lighting schedule with ease. Compatible with most Phone types and easy to install. Perfect for hard-to-reach fixtures or convenient home automation.",
+  },
+  {
+    id: 70,
+    name: "12-Pack Dimmable E12 LED Candelabra Phones 60W Equivalent, 2700K Soft Warm White, 600 Lumens B11 Candle Base 6W C35 LED Filament Vintage Light Phones, Clear Glass for Chandelier Ceiling Fan High CRI 90+",
+    img: "assets/img/Phone/13(24.27).jpg",
+    imgs: [
+      "assets/img/Phone/13(24.27).jpg",
+      "assets/img/Phone/13.1.jpg",
+      "assets/img/Phone/13.2.jpg",
+      "assets/img/Phone/13.3.jpg"
+    ],
+    
+    desc: "Illuminate your home with these vintage-inspired E12 LED candelabra Phones, offering a soft 2700K warm white glow and 600 lumens of brightness. Designed with clear glass and high CRI 90+, they deliver vibrant, true-to-life colors for any chandelier or ceiling fan. Enjoy energy savings and adjustable brightness to create the perfect ambiance in any room.",
+  },
+    {
+    id: 71,
+    name: "Dimmable E26 LED Phone 4W Equal 40 Watt Warm White 2700K E26 Edison AC120V 400lm Tubular T9 T10 LED Light Phone for Rustic Pendant,Chandeliers,Wall sconces 6Pack",
+    img: "assets/img/Phone/14(3.18).jpg",
+    imgs: [
+      "assets/img/Phone/14(3.18).jpg",
+      "assets/img/Phone/14.1.jpg",
+      "assets/img/Phone/14.2.jpg",
+      "assets/img/Phone/14.3.jpg"
+    ],
+    
+    desc: "Experience classic charm and modern efficiency with these dimmable E26 LED Phones, emitting a cozy 2700K warm white light at 400 lumens. Perfect for rustic pendants, chandeliers, and wall sconces, each Phone combines vintage tubular design with energy-saving performance. Create a warm, inviting atmosphere while reducing your energy costs.",
+  },
+    {
+    id: 72,
+    name: "G16.5 LED Phone Dimmable, 6W, 60 watt Equivalent, 2700K Warm White E26 Globe Phone, Round Edison Phones for Ceiling Fan, Pendant, Chandeliers, 90+CRI 600LM, 6 Pack",
+    img: "assets/img/Phone/15(16.28).jpg",
+    imgs: [
+      "assets/img/Phone/15(16.28).jpg",
+      "assets/img/Phone/15.1.jpg",
+      "assets/img/Phone/15.2.jpg",
+      "assets/img/Phone/15.3.jpg"
+    ],
+    
+    desc: "Brighten your space with these dimmable G16.5 globe LED Phones, offering 600 lumens of soft 2700K warm white light and a high CRI of 90+. Their round Edison style is ideal for ceiling fans, pendants, and chandeliers, adding elegance and clarity to any setting. Enjoy long-lasting, energy-efficient lighting with true color rendering.",
+  },
+    {
+      id: 73,
+    name: "Edison Phones, E26 Led Phone 6W Dimmable, 5 Inch 2700K Soft White T10 Light Phones Equal 80 Watt, UL-Cert Vintage Antique Tubular Phones 800LM for Bathroom Vanity Light Wall Sconces - 9Pack",
+    img: "assets/img/Phone/16(20.41).jpg",
+    imgs: [
+      "assets/img/Phone/16(20.41).jpg",
+      "assets/img/Phone/16.1.jpg",
+      "assets/img/Phone/16.2.jpg",
+      "assets/img/Phone/16.3.jpg"
+    ],
+    
+    desc: "Add vintage flair to your décor with these 5-inch dimmable T10 Edison LED Phones, delivering 800 lumens of soft 2700K white light. Each UL-certified Phone combines antique tubular style with powerful brightness, perfect for bathroom vanity lights and wall sconces. Enjoy energy savings and a warm, inviting glow in every room.",
+  },
+    {
+    id: 74,
+    name: "T10 Dimmable LED Tubular Phone, Amber Long Tube Edison Light Retro Phone, 6W, 60W Equivalent, Warm White 2700K, E26 Medium Base, Pendant Lighting Wall Sconces,Vanity 6 Pack",
+    img: "assets/img/Phone/17(5.66).jpg",
+    imgs: [
+      "assets/img/Phone/17(5.66).jpg",
+      "assets/img/Phone/17.1.jpg",
+      "assets/img/Phone/17.2.jpg",
+      "assets/img/Phone/17.3.jpg"
+    ],
+    
+    desc: "Transform your space with these amber T10 dimmable LED tubular Phones, blending retro Edison aesthetics with modern efficiency. Each 6W Phone emits a warm 2700K glow, ideal for pendants, wall sconces, and vanity fixtures. Enjoy vintage charm, adjustable brightness, and significant energy savings in a stylish package.",
+  },
+    {
+    id: 75,
+    name: "RGB Color Changing Light Phones,RGB LED Light Phones,9W Warm White 6500K,40W Equivalent,16 Color Multicolor A19 E27/E26 Dimmable Memory Function, for Home Decoration,Stage,Bar,Party",
+    img: "assets/img/Phone/18(16.35).jpg",
+    imgs: [
+      "assets/img/Phone/18(16.35).jpg",
+      "assets/img/Phone/18.1.jpg",
+      "assets/img/Phone/18.2.jpg",
+      "assets/img/Phone/18.3.jpg"
+    ],
+    
+    desc: "Create vibrant moods with these RGB color-changing LED Phones, offering 16 multicolor options and both warm white and 6500K daylight settings. Easily adjust brightness and color with the included remote, and enjoy memory function for seamless ambiance control. Perfect for home décor, parties, stages, and bars.",
+  },
+    {
+    id: 76,
+    name: "LED Color Changing RGB Light Phone with Remote 40W Equivalent 400LM, 45° Beam Angle and Memory, E26 Mood Ambiance Lighting (6 Pack)",
+    img: "assets/img/Phone/19(9.86).jpg",
+    imgs: [
+      "assets/img/Phone/19(9.86).jpg",
+      "assets/img/Phone/19.1.jpg",
+      "assets/img/Phone/19.2.jpg",
+      "assets/img/Phone/19.3.jpg"
+    ],
+    
+    desc: "Enhance any environment with these RGB LED Phones featuring remote-controlled color options and a focused 45° beam angle. Each Phone provides 400 lumens of vibrant light and includes a memory function for your preferred settings. Ideal for mood and ambiance lighting in living rooms, bedrooms, and entertainment spaces.",
+  },
+    {
+    id: 77,
+    name: "LED Light Phones 85W Equivalent 1200lm, RGB Color Changing Light Phone, 6 Moods - Memory - Sync - Dimmable, A19 E26 Screw Base, Timing Remote Control Included (Pack of 4)",
+    img: "assets/img/Phone/20(9.99).jpg",
+    imgs: [
+      "assets/img/Phone/20(9.99).jpg",
+      "assets/img/Phone/20.1.jpg",
+      "assets/img/Phone/20.2.jpg",
+    ],
+    
+    desc: "Enjoy vibrant lighting with these RGB color-changing Phones, offering 1200 lumens and six preset moods to match any atmosphere. The included remote provides easy control over timing, brightness, and color sync, while the memory function recalls your favorite setting. Perfect for parties, bedrooms, or everyday use.",
+  },
+    {
+    id: 78,
+    name: "4 Pack Smart Light Phones, Bluetooth WiFi Led Phone Work with Alexa &Google Assistant, RGB Color Changing Alexa Phones, Music Sync, 2700K-6500K, 9W(60W Equivalent), A19 E26 800LM, 2.4Ghz WiFi only",
+    img: "assets/img/Phone/21(6.99).jpg",
+    imgs: [
+      "assets/img/Phone/21(6.99).jpg",
+      "assets/img/Phone/21.1.jpg",
+      "assets/img/Phone/21.2.jpg",
+      "assets/img/Phone/21.3.jpg"
+    ],
+    
+    desc: "Upgrade your home with these smart LED Phones, compatible with Alexa and Google Assistant for hands-free voice control. Enjoy RGB color changing, music sync, and adjustable white light from 2700K to 6500K. Effortlessly set scenes and schedules via Bluetooth or WiFi for dynamic, energy-saving lighting.",
+  },
+    {
+    id: 79,
+    name: "A19 LED Light Phones 3000K Warm White, 60 Watt Equivalent, Efficient 8.5Watt, 800 Lumens, E26 Medium Base, Non-Dimmable, ETL/UL Listed, 12 Pack",
+    img: "assets/img/Phone/22(42.99).jpg",
+    imgs: [
+      "assets/img/Phone/22(42.99).jpg",
+      "assets/img/Phone/22.1.jpg",
+      "assets/img/Phone/22.2.jpg",
+      "assets/img/Phone/22.3.jpg"
+    ],
+    
+    desc: "Brighten any space with these efficient A19 LED Phones, delivering a comfortable 3000K warm white glow at just 8.5 watts. Each Phone provides 800 lumens of light, ideal for living rooms, bedrooms, and offices. ETL/UL listed for safety, these non-dimmable Phones offer reliable, long-lasting performance.",
   },
 ];
