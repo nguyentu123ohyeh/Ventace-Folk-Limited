@@ -749,7 +749,7 @@ const PRODUCTS = [
   },
     {
     id: 58,
-    name: "Sound+Light Sensor Control LED Phone Automatic Smart Sensor Phone Light (9W)",
+    name: "Compatible with iPhone 15 Pro Max Case,Dual-Layer Protection,Hard Shell with Silicone Interior,Slim Scratch Resistant Shockproof for Woman Men-Cute Colourful Flowers Lily",
     img: "assets/img/Phone/1(11.97).jpg",
     imgs: [
       "assets/img/Phone/1(11.97).jpg",
@@ -758,11 +758,11 @@ const PRODUCTS = [
       "assets/img/Phone/1.3.jpg"
     ],
     
-    desc: "This 9W smart LED Phone features both sound and light sensors for fully automatic operation. It turns on when it detects movement or sound, making it perfect for hallways, entryways, closets, or stairwells. Enjoy hands-free convenience and enhanced safety in your home. Easy to install and energy-efficient for everyday use.",
+    desc: "Add a touch of elegance to your iPhone 15 Pro Max with this charming case featuring vibrant lily flower designs. The dual-layer construction combines a tough outer shell with a soft silicone interior, delivering superior shock absorption and scratch resistance. Slim and lightweight, this case offers reliable protection without adding bulk, making it perfect for both women and men who love stylish yet functional accessories.",
   },
     {
     id: 59,
-    name: "LED RGB Smart Light Phone A19 9W 900LM Voice APP Bluetooth Control E26 4 Pack",
+    name: "Magnetic for iPhone 14 Case & iPhone 13 Case (Compatible with MagSafe)(Military Grade Drop Protection) Translucent Matte Shockproof Phone Cover,Black",
     img: "assets/img/Phone/2(6.33).jpg",
     imgs: [
       "assets/img/Phone/2(6.33).jpg",
@@ -771,11 +771,11 @@ const PRODUCTS = [
       "assets/img/Phone/2.3.jpg"
     ],
     
-    desc: "Brighten any room with this 4-pack of A19 RGB smart Phones, offering 900 lumens and 16 million color options. Easily control brightness and color via app, Bluetooth, or voice commands with compatible assistants. Perfect for creating custom moods in bedrooms, living rooms, or entertainment areas. Standard E26 base fits most fixtures.",
+    desc: "Experience unmatched protection and style with this magnetic phone case, compatible with both iPhone 14 and iPhone 13. Designed to work seamlessly with MagSafe accessories, it features a translucent matte finish for a modern look. The military-grade drop protection ensures your device remains safe from impacts, while the slim profile keeps your phone pocket-friendly.",
   },
     {
     id: 60,
-    name: "SONOFF B05-BL-A60/A19 WiFi Smart Light Phone Smart Home Dimmable Lamp Support Ewe",
+    name: "iPhone 14/iPhone 13 Case, Compatible with MagSafe, Classic Hybrid Magnetic Mobile Phone Case iPhone 14/13 Case, Military Standard, Drop Protection, Clear",
     img: "assets/img/Phone/3(6.23).jpg",
     imgs: [
       "assets/img/Phone/3(6.23).jpg",
@@ -784,11 +784,11 @@ const PRODUCTS = [
       "assets/img/Phone/3.3.jpg"
     ],
     
-    desc: "Upgrade your lighting with the SONOFF B05-BL-A60/A19 WiFi Smart Phone, supporting dimming and remote control through the EweLink app. Compatible with popular smart home systems, it allows for seamless voice or app-based adjustments. Energy-efficient and easy to integrate into any room. Enjoy customizable lighting for every occasion.",
+    desc: "Protect your iPhone 14 or 13 with this classic hybrid case, designed for MagSafe compatibility and ultimate convenience. The clear design showcases your phone’s original beauty while offering military-standard drop protection. Strong magnets ensure secure attachment to MagSafe chargers and accessories, making this case both practical and stylish.",
   },
     {
       id: 61,
-    name: "2X Smart LED Light Phone E14 ES Candle 6W WiFi RGB App Control For Alexa Google",
+    name: "iPhone 15 Case: for iPhone 14 | iPhone 13 Case Support Magnetic Charging Military Grade Drop Protection Anti Yellowing | Rugged Shockproof Phone Cover - 6.1 inch (Clear)",
     img: "assets/img/Phone/4(4.89).jpg",
     imgs: [
       "assets/img/Phone/4(4.89).jpg",
@@ -797,11 +797,11 @@ const PRODUCTS = [
       "assets/img/Phone/4.3.jpg"
     ],
     
-    desc: "This set of two E14 candle smart Phones brings vibrant RGB color control to your home. Use the app or voice assistants like Alexa and Google Home to adjust brightness, color, and set schedules. Perfect for chandeliers, bedrooms, or accent lighting. Add a touch of elegance and smart convenience to any space.",
+    desc: "Keep your iPhone 15, 14, or 13 looking new with this rugged shockproof case featuring anti-yellowing technology. The clear design supports magnetic charging and provides military-grade drop protection for everyday peace of mind. Its durable construction safeguards against drops, scratches, and daily wear, all while maintaining a slim, sleek profile.",
   },
     {
     id: 62,
-    name: "Modern RGB LED Corner Floor Lamp Light Strip for Room with Music Sync DIY Color",
+    name: "for Samsung Galaxy A25 5G Phone Case,with Screen Protector [Military Grade Drop Tested] Heavy-Duty Tough Rugged Shockproof Protective Case for Galaxy A25 5G, Black",
     img: "assets/img/Phone/5(6.28).jpg",
     imgs: [
       "assets/img/Phone/5(6.28).jpg",
@@ -810,11 +810,11 @@ const PRODUCTS = [
       "assets/img/Phone/5.3.jpg"
     ],
     
-    desc: "Create a stunning ambiance with this modern RGB LED corner floor lamp. Featuring music sync and DIY color modes, it transforms your living room, bedroom, or gaming area with dynamic lighting effects. The sleek, minimalist design fits neatly into any corner. Elevate your space with customizable, immersive light.",
+    desc: "Safeguard your Samsung Galaxy A25 5G with this heavy-duty, military-grade phone case. It includes a screen protector for all-around defense against drops, impacts, and scratches. The rugged, shockproof design ensures comprehensive protection while maintaining a professional and stylish black finish.",
   },
     {
     id: 63,
-    name: "6pcs Honeycomb Quantum Lamp Smart Sensor Diy Geometric Colorful Wall Led Modular",
+    name: "iPhone 13 Case,iPhone 14 Case,Three Layer Heavy Duty Sturdy Shockproof Protection Full Rugged Hard PC+Soft TPU Bumper Protective Girls Case for Apple iPhone 13/14 6.1 inch,Bright Purple",
     img: "assets/img/Phone/6(14.99).jpg",
     imgs: [
       "assets/img/Phone/6(14.99).jpg",
@@ -823,11 +823,11 @@ const PRODUCTS = [
       "assets/img/Phone/6.3.jpg"
     ],
     
-    desc: "Design your own wall art with this 6-piece honeycomb modular LED lamp set. Each panel features touch-sensitive controls and a spectrum of vibrant colors for endless combinations. Arrange them in unique geometric patterns to suit your style. Perfect for bedrooms, living rooms, or creative studios.",
+    desc: "This three-layer case provides exceptional shockproof protection for your iPhone 13 or 14, blending a hard PC shell with a soft TPU bumper. The vibrant bright purple color adds a fun and feminine touch, making it perfect for girls who want both style and durability. Its sturdy construction shields your phone from drops, bumps, and everyday accidents.",
   },
     {
     id: 64,
-    name: "WiFi Smart Phone Smart Light Phone Compatible with Alexa & Google Home, No Hub Req",
+    name: "Logo Visible Compatible with iPhone 13 Pro Case Luxury Vegan Leather Ultra Slim Business Cover 2021 6.1 Inch (Red)",
     img: "assets/img/Phone/7(14.68).jpg",
     imgs: [
       "assets/img/Phone/7(14.68).jpg",
@@ -836,11 +836,11 @@ const PRODUCTS = [
       "assets/img/Phone/7.3.jpg"
     ],
     
-    desc: "Experience effortless smart lighting with this WiFi-enabled Phone—no hub required. Control brightness, color, and schedules remotely through an app or with Alexa and Google Home voice commands. Simple to install in any standard socket. Ideal for modern homes seeking convenience and energy savings.",
+    desc: "Elevate your iPhone 13 Pro with this luxurious vegan leather case, designed for professionals who appreciate elegance and functionality. The ultra-slim profile ensures easy handling and pocketability, while the precise cutout keeps your Apple logo visible. Its rich red color and premium texture provide a sophisticated look suitable for any business setting.",
   },
     {
     id: 65,
-    name: "9W Dimmable Wall Light App Control LED Down Phone Smart Lights Up-down 220V/110V",
+    name: "Compatible with iPhone 16 Pro Max Case 6.9'', Slim Liquid Silicone 3 Layers Soft Gel Rubber Shockproof Protective Case with Anti-Scratch Microfiber Lining-Chalk Pink",
     img: "assets/img/Phone/8(6.36).jpg",
     imgs: [
       "assets/img/Phone/8(6.36).jpg",
@@ -848,11 +848,11 @@ const PRODUCTS = [
       "assets/img/Phone/8.2.jpg",
     ],
     
-    desc: "Illuminate your space with this 9W dimmable smart wall light, featuring both up and down lighting. Easily adjust brightness and settings from your smartphone app, compatible with 220V/110V systems. Modern design suits hallways, living rooms, or balconies. Enjoy versatile, customizable lighting at your fingertips.",
+    desc: "Protect your iPhone 16 Pro Max with this slim, three-layer liquid silicone case in a soft chalk pink shade. The shockproof construction and anti-scratch microfiber lining ensure your device stays safe from daily wear and accidental drops. Its smooth, silky texture offers a comfortable grip, combining style and security in one elegant package.",
   },
     {
     id: 66,
-    name: "LED Globe Phone Smart Sound PIR Motion Sensor Ball Light Corridor Warehouse Lamp",
+    name: "iPhone 14 Pro Max (ONLY) Commuter Series Case - Black, Slim & Tough, Pocket-Friendly, with Port Protection",
     img: "assets/img/Phone/9(18.99).jpg",
     imgs: [
       "assets/img/Phone/9(18.99).jpg",
@@ -860,11 +860,11 @@ const PRODUCTS = [
       "assets/img/Phone/9.2.jpg"
     ],
     
-    desc: "This LED globe Phone combines sound and PIR motion sensors for automatic, energy-saving lighting. It activates when it detects movement or noise, making it ideal for corridors, warehouses, or garages. Provides reliable, hands-free illumination for safety and convenience. Simple installation in any standard socket.",
+    desc: "Designed exclusively for the iPhone 14 Pro Max, this Commuter Series case offers a perfect balance of slimness and toughness. Its pocket-friendly design makes it easy to carry, while built-in port protection keeps dust and debris out. The sleek black finish adds a professional touch, making it ideal for everyday use.",
   },
     {
     id: 67,
-    name: "SwitchBot LED Light Phone Smart Light Smart Home - Smart Light Phone E26 (2 Pack)",
+    name: "Phone Case for Samsung Galaxy A15 5G Case with HD Screen Protector & Slide Camera Cover & Rotated Ring Kickstand, [Military-Grade] Phone Case for Galaxy A15 5G (Red)",
     img: "assets/img/Phone/10(5.69).jpg",
     imgs: [
       "assets/img/Phone/10(5.69).jpg",
@@ -873,11 +873,11 @@ const PRODUCTS = [
       "assets/img/Phone/10.3.jpg"
     ],
     
-    desc: "Enjoy smart home lighting with this 2-pack of SwitchBot LED Phones, featuring app and voice control for easy adjustments. Customize brightness and color temperature to suit any mood or activity. Compatible with major smart home systems and standard E26 sockets. Perfect for bedrooms, offices, or living spaces.",
+    desc: "This military-grade phone case for the Samsung Galaxy A15 5G offers all-around protection with an included HD screen protector and a slide camera cover for enhanced privacy. The built-in rotating ring kickstand provides convenient hands-free viewing and a secure grip. Its bold red color and rugged design make it both stylish and highly functional.",
   },
       {
     id: 68,
-    name: "ON/OFF B22 Globe PIR Energy Saving Light Motion Sensor LED Phone Smart Phone",
+    name: "Screen Protector Tempered Glass Compatible with Apple iPhone 15 Pro Max (2 Pack)",
     img: "assets/img/Phone/11(18.99).jpg",
     imgs: [
       "assets/img/Phone/11(18.99).jpg",
@@ -886,11 +886,11 @@ const PRODUCTS = [
       "assets/img/Phone/11.3.jpg"
     ],
     
-    desc: "This B22 globe LED Phone features a built-in PIR motion sensor for automatic on/off functionality. Ideal for entryways, staircases, and garages, it helps save energy by only lighting up when needed. Simple to install and highly efficient. Enhance your home’s convenience and security effortlessly.",
+    desc: "Keep your iPhone 15 Pro Max display pristine with this premium tempered glass screen protector set. Each protector offers high-definition clarity and robust scratch resistance, preserving your phone’s original touch sensitivity. With two protectors included, you get long-lasting coverage and peace of mind against daily wear and accidental drops.",
   },
       {
     id: 69,
-    name: "Wireless Remote Control Smart Timer Switch Lamp Holder Smart Phone Holder",
+    name: "Screen Protector for iPhone 15 Pro, Pull-To-Protect Easy Installation, Auto Dust-Elimination, 9H+ Military-Grade Tempered Glass, Bubble-Free, Case Friendly, HD Clear, 6.1 Inch, 2 Pack",
     img: "assets/img/Phone/12(20.34).jpg",
     imgs: [
       "assets/img/Phone/12(20.34).jpg",
@@ -899,11 +899,11 @@ const PRODUCTS = [
       "assets/img/Phone/12.3.jpg"
     ],
     
-    desc: "Transform any regular Phone into a smart light with this wireless remote-control lamp holder. Set timers, switch lights on/off remotely, and automate your lighting schedule with ease. Compatible with most Phone types and easy to install. Perfect for hard-to-reach fixtures or convenient home automation.",
+    desc: "Enjoy flawless screen protection for your iPhone 15 Pro with this innovative pull-to-protect tempered glass set. Featuring auto dust-elimination and bubble-free application, installation is fast and effortless. The military-grade 9H+ hardness ensures your screen stays safe from scratches and impacts, while the ultra-clear design keeps your display vibrant and case-friendly.",
   },
   {
     id: 70,
-    name: "12-Pack Dimmable E12 LED Candelabra Phones 60W Equivalent, 2700K Soft Warm White, 600 Lumens B11 Candle Base 6W C35 LED Filament Vintage Light Phones, Clear Glass for Chandelier Ceiling Fan High CRI 90+",
+    name: "Unbreak Top 9H+ Glass for iPhone 16 Pro Screen Protector 6.3'' (12FT Military Grade Shatterproof) Screen Protector 16 Pro Tempered Glass (Longest Durable) Full Coverage 16Pro, 2 Pack",
     img: "assets/img/Phone/13(24.27).jpg",
     imgs: [
       "assets/img/Phone/13(24.27).jpg",
@@ -912,11 +912,11 @@ const PRODUCTS = [
       "assets/img/Phone/13.3.jpg"
     ],
     
-    desc: "Illuminate your home with these vintage-inspired E12 LED candelabra Phones, offering a soft 2700K warm white glow and 600 lumens of brightness. Designed with clear glass and high CRI 90+, they deliver vibrant, true-to-life colors for any chandelier or ceiling fan. Enjoy energy savings and adjustable brightness to create the perfect ambiance in any room.",
+    desc: "Upgrade your iPhone 16 Pro with this ultra-durable 9H+ tempered glass screen protector, providing full coverage and military-grade shatterproof protection from drops up to 12 feet. The advanced glass formula guarantees long-lasting clarity and resilience against daily hazards. Each pack includes two protectors, ensuring continued defense for your device.",
   },
     {
     id: 71,
-    name: "Dimmable E26 LED Phone 4W Equal 40 Watt Warm White 2700K E26 Edison AC120V 400lm Tubular T9 T10 LED Light Phone for Rustic Pendant,Chandeliers,Wall sconces 6Pack",
+    name: "3 Pack Designed for iPhone 14, iPhone 13, iPhone 13 Pro Screen Protector (6.1 inches), Enhanced Tempered Glass Protection,Case Friendly, Ultra Resistant",
     img: "assets/img/Phone/14(3.18).jpg",
     imgs: [
       "assets/img/Phone/14(3.18).jpg",
@@ -925,11 +925,11 @@ const PRODUCTS = [
       "assets/img/Phone/14.3.jpg"
     ],
     
-    desc: "Experience classic charm and modern efficiency with these dimmable E26 LED Phones, emitting a cozy 2700K warm white light at 400 lumens. Perfect for rustic pendants, chandeliers, and wall sconces, each Phone combines vintage tubular design with energy-saving performance. Create a warm, inviting atmosphere while reducing your energy costs.",
+    desc: "Illuminate your space with these dimmable E26 LED bulbs, each offering a warm white 2700K glow and 400 lumens of brightness. Designed to replace traditional 40-watt bulbs, they are perfect for rustic pendants, chandeliers, and wall sconces. The tubular T9/T10 design adds a vintage touch, while energy-efficient performance ensures long-lasting light in any setting.",
   },
     {
     id: 72,
-    name: "G16.5 LED Phone Dimmable, 6W, 60 watt Equivalent, 2700K Warm White E26 Globe Phone, Round Edison Phones for Ceiling Fan, Pendant, Chandeliers, 90+CRI 600LM, 6 Pack",
+    name: "Tempered Glass Screen Protector [GlasTR EZ FIT] designed for iPhone 16 Pro [2 Pack]",
     img: "assets/img/Phone/15(16.28).jpg",
     imgs: [
       "assets/img/Phone/15(16.28).jpg",
@@ -938,11 +938,11 @@ const PRODUCTS = [
       "assets/img/Phone/15.3.jpg"
     ],
     
-    desc: "Brighten your space with these dimmable G16.5 globe LED Phones, offering 600 lumens of soft 2700K warm white light and a high CRI of 90+. Their round Edison style is ideal for ceiling fans, pendants, and chandeliers, adding elegance and clarity to any setting. Enjoy long-lasting, energy-efficient lighting with true color rendering.",
+    desc: "Protect your iPhone 16 Pro with this GlasTR EZ FIT tempered glass screen protector, engineered for a precise and bubble-free fit. The ultra-clear glass maintains your phone’s vibrant display and touch sensitivity, while robust construction shields against scratches and impacts. Each package includes two protectors for double the protection.",
   },
     {
       id: 73,
-    name: "Edison Phones, E26 Led Phone 6W Dimmable, 5 Inch 2700K Soft White T10 Light Phones Equal 80 Watt, UL-Cert Vintage Antique Tubular Phones 800LM for Bathroom Vanity Light Wall Sconces - 9Pack",
+    name: "9H+ Glass for iPhone 15 Pro Max Screen Protector [Military Grade Shatterproof & Longest Durable] Screen Protector 15 Pro Max Tempered Glass Full Coverage Protection, 2 Packs",
     img: "assets/img/Phone/16(20.41).jpg",
     imgs: [
       "assets/img/Phone/16(20.41).jpg",
@@ -951,11 +951,11 @@ const PRODUCTS = [
       "assets/img/Phone/16.3.jpg"
     ],
     
-    desc: "Add vintage flair to your décor with these 5-inch dimmable T10 Edison LED Phones, delivering 800 lumens of soft 2700K white light. Each UL-certified Phone combines antique tubular style with powerful brightness, perfect for bathroom vanity lights and wall sconces. Enjoy energy savings and a warm, inviting glow in every room.",
+    desc: "Ensure your iPhone 15 Pro Max stays flawless with this military-grade, shatterproof tempered glass screen protector. With 9H+ hardness and full coverage design, it guards against scratches, drops, and daily wear. The pack includes two ultra-durable protectors, providing extended protection and peace of mind.",
   },
     {
     id: 74,
-    name: "T10 Dimmable LED Tubular Phone, Amber Long Tube Edison Light Retro Phone, 6W, 60W Equivalent, Warm White 2700K, E26 Medium Base, Pendant Lighting Wall Sconces,Vanity 6 Pack",
+    name: "Silicone Suction Phone Case Mount, Silicon Adhesive Phone Accessory for Smartphones, Hands-Free Mirror Shower Phone Holder for Selfies, Tiktok Videos (Light Pink)",
     img: "assets/img/Phone/17(5.66).jpg",
     imgs: [
       "assets/img/Phone/17(5.66).jpg",
@@ -964,11 +964,11 @@ const PRODUCTS = [
       "assets/img/Phone/17.3.jpg"
     ],
     
-    desc: "Transform your space with these amber T10 dimmable LED tubular Phones, blending retro Edison aesthetics with modern efficiency. Each 6W Phone emits a warm 2700K glow, ideal for pendants, wall sconces, and vanity fixtures. Enjoy vintage charm, adjustable brightness, and significant energy savings in a stylish package.",
+    desc: "Enjoy hands-free convenience with this light pink silicone suction phone mount, perfect for mirrors, showers, or any smooth surface. The strong adhesive keeps your smartphone secure for selfies, TikTok videos, or video calls. Compact and portable, it’s an ideal accessory for creative content and everyday use.",
   },
     {
     id: 75,
-    name: "RGB Color Changing Light Phones,RGB LED Light Phones,9W Warm White 6500K,40W Equivalent,16 Color Multicolor A19 E27/E26 Dimmable Memory Function, for Home Decoration,Stage,Bar,Party",
+    name: "2 Pack Universal Airplane Phone Holder for Stocking Stuffers, Klearlook 360° Rotation Travel Essentials Phone Mount for Desk, Handsfree Travel Accessories for Flying, Valentines Day Gift for Couple",
     img: "assets/img/Phone/18(16.35).jpg",
     imgs: [
       "assets/img/Phone/18(16.35).jpg",
@@ -977,11 +977,11 @@ const PRODUCTS = [
       "assets/img/Phone/18.3.jpg"
     ],
     
-    desc: "Create vibrant moods with these RGB color-changing LED Phones, offering 16 multicolor options and both warm white and 6500K daylight settings. Easily adjust brightness and color with the included remote, and enjoy memory function for seamless ambiance control. Perfect for home décor, parties, stages, and bars.",
+    desc: "Travel smarter with this 2-pack of universal airplane phone holders, featuring 360° rotation for the perfect viewing angle. Easily attach it to your tray table or use it as a desk stand for hands-free entertainment. Compact and gift-ready, it’s a thoughtful travel essential for couples or frequent flyers.",
   },
     {
     id: 76,
-    name: "LED Color Changing RGB Light Phone with Remote 40W Equivalent 400LM, 45° Beam Angle and Memory, E26 Mood Ambiance Lighting (6 Pack)",
+    name: "Phone Holders for Your Car with Metal Hook Clip, Air Vent Cell Phone Stand Car Mount, Universal Automobile Cradle Fit for iPhone Android and All Smartphones, Dark Black",
     img: "assets/img/Phone/19(9.86).jpg",
     imgs: [
       "assets/img/Phone/19(9.86).jpg",
@@ -990,11 +990,11 @@ const PRODUCTS = [
       "assets/img/Phone/19.3.jpg"
     ],
     
-    desc: "Enhance any environment with these RGB LED Phones featuring remote-controlled color options and a focused 45° beam angle. Each Phone provides 400 lumens of vibrant light and includes a memory function for your preferred settings. Ideal for mood and ambiance lighting in living rooms, bedrooms, and entertainment spaces.",
+    desc: "Secure your phone in the car with this universal air vent holder, equipped with a sturdy metal hook clip for a reliable grip. The cradle fits all smartphones, including iPhone and Android models, keeping your device accessible and safe while driving. Its sleek dark black design complements any car interior.",
   },
     {
     id: 77,
-    name: "LED Light Phones 85W Equivalent 1200lm, RGB Color Changing Light Phone, 6 Moods - Memory - Sync - Dimmable, A19 E26 Screw Base, Timing Remote Control Included (Pack of 4)",
+    name: "Dash Mounted Holders Phone Holders for Your Car Phone Mount for Car Windshield Dashboard Air Vent Universal Hands Free Automobile Cell Phone Holder Fit for iPhone Smartphone",
     img: "assets/img/Phone/20(9.99).jpg",
     imgs: [
       "assets/img/Phone/20(9.99).jpg",
@@ -1002,11 +1002,11 @@ const PRODUCTS = [
       "assets/img/Phone/20.2.jpg",
     ],
     
-    desc: "Enjoy vibrant lighting with these RGB color-changing Phones, offering 1200 lumens and six preset moods to match any atmosphere. The included remote provides easy control over timing, brightness, and color sync, while the memory function recalls your favorite setting. Perfect for parties, bedrooms, or everyday use.",
+    desc: "This versatile car phone mount offers multiple mounting options on your dashboard, windshield, or air vent for ultimate flexibility. Compatible with iPhone and all smartphones, it provides hands-free convenience and secure holding while on the road. The adjustable design ensures optimal viewing angles for navigation and calls.",
   },
     {
     id: 78,
-    name: "4 Pack Smart Light Phones, Bluetooth WiFi Led Phone Work with Alexa &Google Assistant, RGB Color Changing Alexa Phones, Music Sync, 2700K-6500K, 9W(60W Equivalent), A19 E26 800LM, 2.4Ghz WiFi only",
+    name: "Dual Folding Cell Phone Stand, Fully Adjustable Foldable Desktop Phone Holder Cradle Dock Compatible with Phone 16 15 14 13 12 11 Pro Xs Xs Max Xr X 8, Nintendo Switch, All Phones",
     img: "assets/img/Phone/21(6.99).jpg",
     imgs: [
       "assets/img/Phone/21(6.99).jpg",
@@ -1015,11 +1015,11 @@ const PRODUCTS = [
       "assets/img/Phone/21.3.jpg"
     ],
     
-    desc: "Upgrade your home with these smart LED Phones, compatible with Alexa and Google Assistant for hands-free voice control. Enjoy RGB color changing, music sync, and adjustable white light from 2700K to 6500K. Effortlessly set scenes and schedules via Bluetooth or WiFi for dynamic, energy-saving lighting.",
+    desc: "Upgrade your workspace with this dual folding cell phone stand, offering full adjustability for comfortable viewing angles. Compatible with a wide range of devices, including iPhones, Nintendo Switch, and more, it folds compactly for easy storage or travel. Its sturdy construction ensures your device stays secure on any desk or table.",
   },
     {
     id: 79,
-    name: "A19 LED Light Phones 3000K Warm White, 60 Watt Equivalent, Efficient 8.5Watt, 800 Lumens, E26 Medium Base, Non-Dimmable, ETL/UL Listed, 12 Pack",
+    name: "Vlog Selfie Monitor Screen for iPhone & Android, Built-in Speaker & Adjust Focus Wireless Magnetic Phone Vlog Selfie Monitor Screen for Rear Camera, Live Stream for TikTok",
     img: "assets/img/Phone/22(42.99).jpg",
     imgs: [
       "assets/img/Phone/22(42.99).jpg",
@@ -1028,6 +1028,6 @@ const PRODUCTS = [
       "assets/img/Phone/22.3.jpg"
     ],
     
-    desc: "Brighten any space with these efficient A19 LED Phones, delivering a comfortable 3000K warm white glow at just 8.5 watts. Each Phone provides 800 lumens of light, ideal for living rooms, bedrooms, and offices. ETL/UL listed for safety, these non-dimmable Phones offer reliable, long-lasting performance.",
+    desc: "Enhance your vlogging experience with this wireless magnetic selfie monitor screen, compatible with both iPhone and Android devices. Featuring a built-in speaker and adjustable focus, it allows you to use your rear camera for high-quality video while monitoring your shot in real time. Ideal for live streaming, TikTok, and content creation on the go.",
   },
 ];
